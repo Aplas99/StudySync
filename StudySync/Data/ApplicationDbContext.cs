@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using StudySync.Models;
 
 namespace StudySync.Data
 {
@@ -9,5 +10,6 @@ namespace StudySync.Data
             : base(options)
         {
         }
+        public DbSet<StudySync.Models.IndexCard>? IndexCard { get; set; }
     }
 }

@@ -12,7 +12,6 @@ StudySync is an app that syncs all your studying material across all platforms(W
 *The open-source version of ASP.NET, that runs on macOS, Linux, and Windows.(cross platform)*
 
 
-
 An ASP.NET page contains a mix of HTML markup and dynamic ASP markup: 
 
 
@@ -22,11 +21,19 @@ ASP.NET is run on a server combining the static HTML code, and updating the dyna
 
 # MVC (Model Views and Controllers)
 - Model: classes (objects)
-    - For this app I will be creating a model for index cards for studying that has a question, answer, and an Id number.     
+    - For this app I will be creating a model for index cards for studying that has a question, answer, and an Id number.
+    - Data related, consisting of classes and objects with properties
+    - Uses SQL statements
+    - Supplies the controller with lists of objects 
 - View: web page (in this context -> Razor HTML)
     - The view will be the web pages that mangages the display of data.
+    - HTML/CSS code 
+    - Usually gets a list of data from the controller
+    - Dynamically combines data with HTML and C# *(called Razor)* in a template
 - Controller: connects models, business logic and web pages.
     - The controller handles the code, page events, and navigation.  
 - The MVC design pattern helps to enforce separation of concerns to help you avoid mixing presentation logic, business logic, and data access logic together. 
     - This means that we can create apps that optimize space/ file sizes, code is modular, and can be run and managed by multiple people. 
+
+
 

@@ -20,6 +20,13 @@ An ASP.NET page contains a mix of HTML markup and dynamic ASP markup:
 
 ASP.NET is run on a server combining the static HTML code, and updating the dynamic ASP elements to produce a final HTML page.
 
-
-
+# MVC (Model Views and Controllers)
+- Model: classes (objects)
+    - For this app I will be creating a model for index cards for studying that has a question, answer, and an Id number.     
+- View: web page (in this context -> Razor HTML)
+    - The view will be the web pages that mangages the display of data.
+- Controller: connects models, business logic and web pages.
+    - The controller handles the code, page events, and navigation.  
+- The MVC design pattern helps to enforce separation of concerns to help you avoid mixing presentation logic, business logic, and data access logic together. 
+    - This means that we can create apps that optimize space/ file sizes, code is modular, and can be run and managed by multiple people. 
 

@@ -1,5 +1,5 @@
 # StudySync
-StudySync is an app that syncs all your studying material across all platforms(Windows,Android, Mac/IOS, Linux). This project utilizes ASP.NET Core and C#.
+StudySync is an app that syncs all your studying material across all platforms(Windows, Mac, Mobile, Linux). This project utilizes ASP.NET Core and C#.
 
 # What is ASP.NET Core?
 - ASP.NET Core is an open source C# web-development framework for building web apps on the .NET platform.

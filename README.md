@@ -5,7 +5,7 @@ MVP:
 - [x] Add/ delete index cards (basic crud operations) 
 - [ ] Account creation 
 - [ ] Index cards are stored under the logged in account
-- [ ] Deploy 
+- [ ] Containerize and Deploy application with docker and kubernetes
 - [ ] Build front-end with Javascript and React
 
 Long-Term Goals:

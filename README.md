@@ -1,6 +1,15 @@
 # StudySync
 StudySync is an app that syncs all your studying material across all platforms(Windows,Android, Mac/IOS, Linux). This project utilizes ASP.NET Core and C#.
 
+MVP:
+- [x] Add/ delete index cards (basic crud operations) 
+- [] Account creation 
+- [] Index cards are stored under the logged in account 
+- [] Build front-end with Javascript and React
+
+Long-Term Goals:
+- [] Build a desktop app version using electron 
+
 # What is ASP.NET Core?
 - ASP.NET Core is an open source C# web-development framework for building web apps on the .NET platform.
 - ASP or "Active Server Pages" - Dynamic web pages, usually connected to a database.
@@ -35,5 +44,29 @@ ASP.NET is run on a server combining the static HTML code, and updating the dyna
 - The MVC design pattern helps to enforce separation of concerns to help you avoid mixing presentation logic, business logic, and data access logic together. 
     - This means that we can create apps that optimize space/ file sizes, code is modular, and can be run and managed by multiple people. 
 
+# DAO vs Object Relational Mapper: 
+Data Access Object:
 
+- Manually create tables
+- Traditional method of database access 
+- Write your own SQL statements
+- Usually the prefered method
+- Provides more visibility on finding problems
+
+Object Relational Mapper:
+- Allow the computer to generate database tables based on classes defined in the application
+- Database is updated using migrations 
+- **Entity Framework** is Microsofts ORM
+
+
+*Springboot, the Java framework used to build web applications and microservices can utilize both the DAO and ORM methods but is typically based on ORM with the Spring Data JPA.*
+
+![ORM Setup](image-1.png)
+- Using the internal Visual Studio Package Manager: "Add-Migrations" to start the ORM.
+
+![ORM making the tables](image-2.png)
+- Using the package manager: "update-database" to use the ORM to create the user account and index card tables. 
+
+![IndexCard Table](image-3.png)
+- The table has been created according the properties of the index card.
 

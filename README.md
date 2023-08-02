@@ -5,11 +5,12 @@ MVP:
 - [x] Add/ delete index cards (basic crud operations) 
 - [ ] Account creation 
 - [ ] Index cards are stored under the logged in account
-- [ ] Containerize and Deploy application with docker and kubernetes
+- [ ] Containerize and Deploy application with Docker and Kubernetes
 - [ ] Build front-end with Javascript and React
 
 Long-Term Goals:
-- [] Build a desktop app version using electron 
+- [ ] Build a desktop app version using the [electron framework](https://www.electronjs.org/)
+- [ ] Use Grafana for log and metrics aggregation to be able to establish reasonable SLO's. 
 
 # What is ASP.NET Core?
 - ASP.NET Core is an open source C# web-development framework for building web apps on the .NET platform.

@@ -3,9 +3,10 @@ StudySync is an app that syncs all your studying material across all platforms(W
 
 MVP:
 - [x] Add/ delete index cards (basic crud operations) 
-- [] Account creation 
-- [] Index cards are stored under the logged in account 
-- [] Build front-end with Javascript and React
+- [ ] Account creation 
+- [ ] Index cards are stored under the logged in account
+- [ ] Deploy 
+- [ ] Build front-end with Javascript and React
 
 Long-Term Goals:
 - [] Build a desktop app version using electron 

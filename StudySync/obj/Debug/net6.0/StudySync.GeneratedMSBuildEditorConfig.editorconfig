@@ -9,65 +9,65 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StudySync
 build_property.RootNamespace = StudySync
-build_property.ProjectDir = I:\StudySync\StudySync\
+build_property.ProjectDir = i:\StudySync\StudySync\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = I:\StudySync\StudySync
+build_property.MSBuildProjectDirectory = i:\StudySync\StudySync
 build_property._RazorSourceGeneratorDebug = 
 
-[I:/StudySync/StudySync/Areas/Identity/Pages/_ViewStart.cshtml]
+[i:/StudySync/StudySync/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/StudySync/StudySync/Views/Home/Index.cshtml]
+[i:/StudySync/StudySync/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/StudySync/StudySync/Views/Home/Privacy.cshtml]
+[i:/StudySync/StudySync/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/StudySync/StudySync/Views/IndexCard/Create.cshtml]
+[i:/StudySync/StudySync/Views/IndexCard/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXhDYXJkXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/StudySync/StudySync/Views/IndexCard/Delete.cshtml]
+[i:/StudySync/StudySync/Views/IndexCard/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXhDYXJkXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/StudySync/StudySync/Views/IndexCard/Details.cshtml]
+[i:/StudySync/StudySync/Views/IndexCard/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXhDYXJkXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/StudySync/StudySync/Views/IndexCard/Edit.cshtml]
+[i:/StudySync/StudySync/Views/IndexCard/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXhDYXJkXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/StudySync/StudySync/Views/IndexCard/Index.cshtml]
+[i:/StudySync/StudySync/Views/IndexCard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXhDYXJkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/StudySync/StudySync/Views/Shared/Error.cshtml]
+[i:/StudySync/StudySync/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/StudySync/StudySync/Views/Shared/_LoginPartial.cshtml]
+[i:/StudySync/StudySync/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/StudySync/StudySync/Views/Shared/_ValidationScriptsPartial.cshtml]
+[i:/StudySync/StudySync/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/StudySync/StudySync/Views/_ViewImports.cshtml]
+[i:/StudySync/StudySync/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/StudySync/StudySync/Views/_ViewStart.cshtml]
+[i:/StudySync/StudySync/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/StudySync/StudySync/Views/Shared/_Layout.cshtml]
+[i:/StudySync/StudySync/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-cnes7otg4m

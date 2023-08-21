@@ -27,6 +27,14 @@ namespace StudySync.Controllers
                           Problem("Entity set 'ApplicationDbContext.IndexCard'  is null.");
         }
 
+        // GET: IndexCard/ShowSearchForm
+        public async Task<IActionResult> ShowSearchForm()
+        {
+            return _context.IndexCard != null ?
+                        View() :
+                        Problem("Entity set 'ApplicationDbContext.IndexCard'  is null.");
+        }
+
         // GET: IndexCard/Details/5
         public async Task<IActionResult> Details(int? id)
         {

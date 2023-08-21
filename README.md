@@ -2,14 +2,14 @@
 StudySync is an app that syncs all your studying material across all platforms(Windows, Mac, Mobile, Linux). This project utilizes ASP.NET Core and C#.
 
 MVP:
-- [x] Add/ delete index cards (basic crud operations) s
+- [x] Add/ delete index cards (basic crud operations) 
 - [ ] Account creation 
 - [ ] Unable to create index cards unless logged in 
 - [ ] Index cards are stored under the logged in account
-- [ ] Containerize and Deploy application with Docker and Kubernetes
-- [ ] Build front-end with Javascript and React
-
+s
 Long-Term Goals:
+- [ ] Build front-end with Javascript and React
+- [ ] Containerize and Deploy application with Docker and Kubernetes
 - [ ] Build a desktop app version using the [electron framework](https://www.electronjs.org/)
 - [ ] Use Grafana for log and metrics aggregation to be able to establish reasonable SLO's. 
 

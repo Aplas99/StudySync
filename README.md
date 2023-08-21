@@ -6,7 +6,7 @@ MVP:
 - [ ] Account creation 
 - [ ] Unable to create index cards unless logged in 
 - [ ] Index cards are stored under the logged in account
-s
+
 Long-Term Goals:
 - [ ] Build front-end with Javascript and React
 - [ ] Containerize and Deploy application with Docker and Kubernetes

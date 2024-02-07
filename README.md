@@ -47,8 +47,8 @@ ASP.NET is run on a server combining the static HTML code, and updating the dyna
 - The MVC design pattern helps to enforce separation of concerns to help you avoid mixing presentation logic, business logic, and data access logic together. 
     - This means that we can create apps that optimize space/ file sizes, code is modular, and can be run and managed by multiple people. 
 
-# DAO vs Object Relational Mapper: 
-Data Access Object:
+# DAO vs ORM: 
+Data Access Object(DAO):
 
 - Manually create tables
 - Traditional method of database access 
@@ -56,7 +56,7 @@ Data Access Object:
 - Usually the prefered method
 - Provides more visibility on finding problems
 
-Object Relational Mapper:
+Object Relational Mapper(ORM):
 - Allow the computer to generate database tables based on classes defined in the application
 - Database is updated using migrations 
 - **Entity Framework** is Microsofts ORM

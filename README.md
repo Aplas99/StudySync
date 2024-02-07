@@ -17,7 +17,7 @@ Long-Term Goals:
 - ASP.NET Core is an open source C# web-development framework for building web apps on the .NET platform.
 - ASP or "Active Server Pages" - Dynamic web pages, usually connected to a database.
 - ASP.NET Core is a flexible Full Stack solution to DBMS, Business Logic, HTML. It can also be combined with popular front-end services like React, Angular, Vue.
-- The .NET framework consists of runtime engine and libraries for executing programs written in a complaint language.
+- The .NET framework consists of runtime engine and libraries for executing programs written in a compliant language.
 - C# is the most popular programming language to write applications for the .NET framework *(so thats what we'll be using)*. 
 
 
